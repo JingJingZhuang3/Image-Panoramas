@@ -1,3 +1,5 @@
+# Author: JingJing Zhuang
+
 import cv2
 import numpy as np
 import sys
