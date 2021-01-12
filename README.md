@@ -1,6 +1,6 @@
 # Image-Panoramas
 The goal of this task is to experiment with image stitching methods.
-Given a set of photos, your program should be able to stitch them into a panoramic photo (as shown in Figure 1). There are no restrictions regarding the method you use to stitch photos into a panoramic photo. 
+Given a set of photos, your program should be able to stitch them into a panoramic photo. There are no restrictions regarding the method you use to stitch photos into a panoramic photo. 
 # For this project, you can assume the following:
 • Your code will need to be able to stitch together anywhere from 2-5 image and you will not know that in advance.  
 • You can assume that IF an image is to be part of the panorama, it will overlap at least one other image and by at least 20%.  
