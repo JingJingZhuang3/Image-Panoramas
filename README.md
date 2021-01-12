@@ -8,8 +8,6 @@ Given a set of photos, your program should be able to stitch them into a panoram
 • Images will overlap with at most one other image.  
 • You are only expected to produce one panorama. For example, if images 1 and 2 overlap, and 3 and 4 overlap, but there is not overlap between 1,2 and 3,4 producing either composite/-panorama is fine.   
 # Please keep in mind:
-• You will have to determine the spatial arrangement of the images automatically, they can be
-presented to your code in any order.
-• Although the Figure below shows horizontal panoramas, you five images can be stitched
-together in any way.
-• While some of the most modern techniques may use a spherical projection for better panoramas, you are free to assume that basic 2D Planer transformations are sufficient for this project.
+• You will have to determine the spatial arrangement of the images automatically, they can be presented to your code in any order.  
+• Although the Figure below shows horizontal panoramas, you five images can be stitched together in any way.  
+• While some of the most modern techniques may use a spherical projection for better panoramas, you are free to assume that basic 2D Planer transformations are sufficient for this project.  
